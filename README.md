@@ -1,2 +1,0 @@
-# ORT-YA-TP3-CHALLENGE1
-Alumno: Iván L.
